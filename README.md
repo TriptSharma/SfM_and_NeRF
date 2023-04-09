@@ -27,6 +27,11 @@ Using SfM and NeRF for 3D reconstruction
 <img src="Phase1/unity_all_cams.png" width="500" height="400"/> </p>
 
 
-Report:
+Contributors:
+Tript Sharma - tsharma@wpi.edu
+Karter Krueger - kkrueger2@wpi.edu
 
+Report:
 https://github.com/TriptSharma/SfM_and_NeRF/blob/main/RBE549_SfM_NeRF.pdf
+
+

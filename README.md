@@ -3,12 +3,12 @@ Using SfM and NeRF for 3D reconstruction
 
 <embed src="/RBE549_SfM_NeRF.pdf"  width="500" height="375">
 
-### NERF Output
+## NERF Output
 <p> 
 <img src="Phase2/lego_gif.gif" width="500" height="500"/> 
 </p>
 
-### SfM Output
+## SfM Output
 
 #### All Feature matches between two cam poses
 <p> 
@@ -27,11 +27,14 @@ Using SfM and NeRF for 3D reconstruction
 <img src="Phase1/unity_all_cams.png" width="500" height="400"/> </p>
 
 
-Contributors:
+## Contributors:
+
 Tript Sharma - tsharma@wpi.edu
+
 Karter Krueger - kkrueger2@wpi.edu
 
-Report:
+### Report:
+
 https://github.com/TriptSharma/SfM_and_NeRF/blob/main/RBE549_SfM_NeRF.pdf
 
 
